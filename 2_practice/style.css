@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman";
+  }
+.page {
+    width: 1310px;
+    margin: 0 auto;
+    margin-top: 97px;
+    margin-bottom: 60px;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p, ul {
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+p {
+    font-weight: bold;
+}
+
+ul { 
+    margin-left: 20px;
+    bg
+}
